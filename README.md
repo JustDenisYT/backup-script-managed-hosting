@@ -2,7 +2,7 @@
 
 Just cone this script and create a cronjob for daily automated usage:
 
-git clone https://github.com/MrAwesomeBro/backup-script-managed-hosting.git
+    git clone https://github.com/MrAwesomeBro/backup-script-managed-hosting.git
 
 Crontab:
 
